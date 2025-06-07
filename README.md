@@ -5,7 +5,7 @@
 ## AboutMe.kt
 ```kotlin aboutMe.kt
 // Welcome to my GitHub profile!  
-// You might know me from my Medium blogs (if not, check them out below 📚).  
+// You might know me from my Medium blogs (if not, check them out).  
 // Feel free to explore my repos or connect!  
 
 object AboutMe : Developer() {
