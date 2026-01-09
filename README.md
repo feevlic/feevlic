@@ -1,12 +1,11 @@
 # 👋 Hey there, I'm feevlic !  
 
-My real name is [Felix](https://www.linkedin.com/in/felix-boudnik-3021a426a/), a mobile Engineer based in Germany. 
+My real name is [Felix](https://www.linkedin.com/in/felix-boudnik-3021a426a/), I am an engineer based in Germany. 
 
-I like to design, build and explore whatever I can imageing. 
+I enjoy designing, building and exploring whatever I can imagine. 
 
-Not everything is related to mobile apps, somethimes I love pulling ideas from outside the mobile world and adapting them for better mobile (and mobility) experiences
+Not everything I do is related to mobile apps. Sometimes I like to pull ideas from outside the mobile world and adapt them to create better mobile (and mobility) experiences.
 
-My main tech stack outside of my position is Kotlin with Jetpack compose. My favoriute tools are Excalidraw to draw ideas, Android Studio or Visual Studio Code for developing.
+Outside of my main tasks, I like to explore other software topics to familiarise myself with new technologies. 
 
-Most of my ideas does not make it into my repos but they will never be forgotten because they shape my next idea.
-
+Most of my ideas do not make it into my repos, but they will never be forgotten because they influence my future ideas.
