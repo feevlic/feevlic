@@ -1,10 +1,10 @@
 # 👋 Hey there, I'm feevlic !  
 
-My real name is [Felix](https://www.linkedin.com/in/felix-boudnik-3021a426a/), I am an engineer based in Germany. 
+My real name is [Felix](https://www.linkedin.com/in/felix-boudnik/), I am an engineer based in Germany. 
 
-I enjoy designing, building and exploring whatever I can imagine. 
+I enjoy designing (sorry i only like designing system not ui...), building and exploring whatever I can imagine. 
 
-Not everything I do is related to mobile apps. Sometimes I like to pull ideas from outside the mobile world and adapt them to create better mobile (and mobility) experiences.
+Not everything I do is related to software. Sometimes I like to pull ideas from outside the mobile world and adapt them to create better mobile (and mobility) experiences.
 
 Outside of my main tasks, I like to explore other software topics to familiarise myself with new technologies. 
 
